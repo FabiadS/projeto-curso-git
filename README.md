@@ -1,1 +1,2 @@
-# projeto-curso-git  - Bootcamp Digital Innovation One
+# projeto-curso-git  
+Bootcamp da Digital Innovation One.
