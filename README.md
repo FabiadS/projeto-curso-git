@@ -9,5 +9,9 @@ Projeto feito no curso de "Introdução ao GitHub e comandos para trabalhar em e
 - Importância do Github;
 - Criar um reposi  remo e seus comandos;
 - Clonar projetos remotos e atualizá-los no Github;
-- Brancheshes e como manipulá-las;
+- Branches e como manipulá-las;
 - Merge.
+
+
+
+
